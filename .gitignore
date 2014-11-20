@@ -1,3 +1,7 @@
+# Other
+.idea
+build
+
 # Logs
 logs
 *.log
